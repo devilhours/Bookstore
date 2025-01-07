@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Story Book",
+    "title": "A timeless collection of short stories that inspire and entertain readers of all ages.",
+    "price": 0,
+    "category": "Free",
+    "image": "/book1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sports Books",
+    "title": "Dive into the world of sports with this comprehensive guide for enthusiasts.",
+    "price": 50,
+    "category": "Sports",
+    "image": "/book2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fictional Book",
+    "title": "Explore captivating fictional worlds and unforgettable characters.",
+    "price": 40,
+    "category": "Fiction",
+    "image": "/book1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Java Programming",
+    "title": "Learn the fundamentals and advanced concepts of Java programming.",
+    "price": 60,
+    "category": "Java",
+    "image": "/book2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Python for Beginners",
+    "title": "An easy-to-follow guide for mastering Python programming basics.",
+    "price": 30,
+    "category": "Python",
+    "image": "/book1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HTML Essentials",
+    "title": "Understand the building blocks of web development with this HTML guide.",
+    "price": 60,
+    "category": "HTML",
+    "image": "/book2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tailwind CSS in Action",
+    "title": "A practical guide to building beautiful and responsive websites using Tailwind CSS.",
+    "price": 10,
+    "category": "CSS",
+    "image": "/book1.jpg"
+  }
+]
